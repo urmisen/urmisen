@@ -8,9 +8,10 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=urmisen&show_icons=true&locale=en&layout=compact" alt="urmisen" /></p>
 
 
-### Data Science and Research enthusiast
+### Technology enthusiast
 - Completing BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology ([RUET](https://www.ruet.ac.bd/))
 - Currently working on Identifying Post Translational Modifications in Proteins using Deep Learning Frameworks.
 - Latest Publication: DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins. 
 
-Currently looking for Data Scientist, Machine Learning Engineer or Entry Level positions... ! :)
+<!-- Currently looking for Data Scientist, Machine Learning Engineer or Entry Level positions... ! :) -->
+Currently looking for a Job which can boost up my skills and my career ahead... ! :)
