@@ -10,7 +10,8 @@
 
 ### Technology enthusiast
 - Completing BSc. degree in Computer Science & Engineering (CSE) from Rajshahi University of Engineering & Technology ([RUET](https://www.ruet.ac.bd/))
-- Currently working on Identifying Post Translational Modifications in Proteins using Deep Learning Frameworks.
+- Currently Exploring the topic of Rest API.
+- Working on Identifying Post Translational Modifications in Proteins using Deep Learning Frameworks.
 - Latest Publication: DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins. 
 
 <!-- Currently looking for Data Scientist, Machine Learning Engineer or Entry Level positions... ! :) -->
