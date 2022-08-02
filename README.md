@@ -15,4 +15,4 @@
 - Latest Publication: DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins. 
 
 <!-- Currently looking for Data Scientist, Machine Learning Engineer or Entry Level positions... ! :) -->
-<!-- Currently looking for a Job which can boost up my skills and my career ahead... ! :) --> -->
+<!-- Currently looking for a Job which can boost up my skills and my career ahead... ! :) --> 
