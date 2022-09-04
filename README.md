@@ -7,9 +7,14 @@
   
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=urmisen&show_icons=true&locale=en&layout=compact" alt="urmisen" /></p>
 
-- I'm currently working as a Jr.Data Analyst at [Shikho Technologies](https://www.linkedin.com/company/shikho?originalSubdomain=bd).
-- Pursued bachelor of science in engineering specialized in computer science and engineering from [Rajshahi University of Engineering & Techonology[(https://www.ruet.ac.bd/).
-- Interested in programming/Data and Data analysis/Machine Learning.
-- I’m looking to collaborate on Machine Learning Practices and research work.
+Currently looking for Data Scientist, Graduate studies opportunities!
+
+- Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from [Rajshahi University of Engineering & Technology (RUET)]https://www.ruet.ac.bd/).
+- Currently working on data analytical and different data driven predictive projects.
+- Research interests: Data Mining,Data Analytics, Machine Learning, Deep Learning.
+- Latest Publication: DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins (Available online)
+
+To know more: Portfolio, Google Schoalr, LinkedIn, Email, Github, ResearchGate
+Check the repositories section to see my efforts! 
 
 
