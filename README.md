@@ -9,7 +9,7 @@
 
 Currently looking for Data Scientist, Graduate studies opportunities!
 
-- Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from [Rajshahi University of Engineering & Technology (RUET)]https://www.ruet.ac.bd/).
+- Graduated and completed BSc. degree in Computer Science & Engineering (CSE) from [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/).
 - Currently working on data analytical and different data driven predictive projects.
 - Research interests: Data Mining,Data Analytics, Machine Learning, Deep Learning.
 - Latest Publication: DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins (Available online)
