@@ -14,7 +14,7 @@ Currently looking for Data Scientist, Graduate studies opportunities!
 - Research interests: Data Mining,Data Analytics, Machine Learning, Deep Learning.
 - Latest Publication: DeepGlut: A Deep Learning Framework for Prediction of Glutarylation Sites in Proteins (Available online)
 
-To know more: Portfolio, Google Schoalr, LinkedIn, Email, Github, ResearchGate.\\
+To know more: Portfolio, Google Schoalr, LinkedIn, Email, Github, ResearchGate.<br />
 Check the repositories section to see my efforts! 
 
 
