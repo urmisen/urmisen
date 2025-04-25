@@ -11,7 +11,7 @@
 To know more: [Portfolio](https://urmisen.github.io/portfolio/#section-home),  [Google Scholar](https://scholar.google.com/citations?user=KF2LqCMAAAAJ&hl=en),  [Github](https://github.com/urmisen),  [ResearchGate](https://www.researchgate.net/profile/Urmi-Sen?ev=hdr_xprf).<br />
 Check the repositories section to see my efforts! Thanks!<br /><br />
 ### Contact with me via!<br />
-LinkedIn : [urmi-sen](https://www.linkedin.com/in/urmi-sen-78a821149/)<br />
-Email : [urmisen1202@gmail.com](urmisen1202@gmail.com)<br />
+- LinkedIn : [urmi-sen](https://www.linkedin.com/in/urmi-sen-78a821149/)<br />
+- Email : [urmisen1202@gmail.com](urmisen1202@gmail.com)<br />
 
 
