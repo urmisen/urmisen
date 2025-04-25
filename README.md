@@ -15,5 +15,5 @@ Check the repositories section to see my efforts! Thanks!
 ### Contact with me via!<br />
 - LinkedIn : [urmi-sen](https://www.linkedin.com/in/urmi-sen-78a821149/)<br />
 - Email : [urmisen1202@gmail.com](urmisen1202@gmail.com)<br />
-
+<p align="right">
 ![Profile Views](https://img.shields.io/badge/Profile%20views-15,168-blue)
